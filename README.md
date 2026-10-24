@@ -10,7 +10,7 @@ Tecnologías que estoy aprendiendo
   <img src="https://skillicons.dev/icons?i=python,html,css,js,php,mysql,git,github,vscode" />
 
 </p>
-Me desemvuelvo copn herramientas como vs code, git, github, sql, terminal
+Me desenvuelvo o con herramientas como Vs code, git, github, sql, java, python
 
 #  Objetivos
  Convertirme en desarrollador profesional y crear proyectos reales y escalables. Me gustaria trabajar remotamente en tecnologia y desarrollandola, seguir 
